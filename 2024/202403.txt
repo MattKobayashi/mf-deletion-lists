@@ -1,0 +1,237 @@
+--- Candidate movies for deletion ---
+7500 (no matching request found)
+Almost Famous (no matching request found)
+Anastasia (no matching request found)
+Arrival (no matching request found)
+Avatar (no matching request found)
+Avatar: The Way of Water (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/movie/76600]
+Baby Driver (no matching request found)
+Back to the Future Part II (no matching request found)
+The Banshees of Inisherin (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/674324]
+The Batman (no matching request found)
+Beerfest (no matching request found)
+The Big Lebowski (no matching request found)
+Bill Hicks: Sane Man (requested by: Max Thompson) [https://www.themoviedb.org/movie/14733]
+Blue Mountain State: The Rise of Thadland (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/288171]
+Bo Burnham: Words, Words, Words (no matching request found)
+The Boat That Rocked (no matching request found)
+Bring It On Again (no matching request found)
+Bring It On: All or Nothing (no matching request found)
+Bring It On: Fight to the Finish (no matching request found)
+Bring It On: In It to Win It (no matching request found)
+Bring It On: Worldwide #Cheersmack (no matching request found)
+The Cart Boy (no matching request found)
+Causeway (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/595586]
+Chaos Theory (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/movie/12912]
+The Circle (no matching request found)
+A Clockwork Orange (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/185]
+Contact (no matching request found)
+Contagion (no matching request found)
+Coraline (no matching request found)
+Corpse Bride (no matching request found)
+Crackerjack (no matching request found)
+The Craft (no matching request found)
+Dante's Peak (no matching request found)
+The Devil Wears Prada (no matching request found)
+Die Hard 2 (no matching request found)
+District 9 (no matching request found)
+Dumb Money (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/movie/792293]
+Erin Brockovich (no matching request found)
+Everything Everywhere All at Once (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/movie/545611]
+Face/Off (no matching request found)
+Fantastic Beasts and Where to Find Them (no matching request found)
+Fantastic Beasts: The Crimes of Grindelwald (no matching request found)
+Fast Five (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/51497]
+Fast & Furious 6 (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/82992]
+The Fast and the Furious (no matching request found)
+The Fast and the Furious: Tokyo Drift (no matching request found)
+Fat Pizza (no matching request found)
+Fat Pizza vs Housos (no matching request found)
+Fear and Loathing in Las Vegas (no matching request found)
+Ferris Bueller's Day Off (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/9377]
+Fired Up! (no matching request found)
+Friday (no matching request found)
+G.I. Jane (no matching request found)
+Good Morning, Vietnam (no matching request found)
+Gran Torino (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/13223]
+Grave of the Fireflies (no matching request found)
+Ground Control (no matching request found)
+Gunpowder Milkshake (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/movie/574060]
+Harry Potter and the Chamber of Secrets (no matching request found)
+Harry Potter and the Deathly Hallows: Part 1 (no matching request found)
+Harry Potter and the Deathly Hallows: Part 2 (no matching request found)
+Harry Potter and the Goblet of Fire (no matching request found)
+Harry Potter and the Half-Blood Prince (no matching request found)
+Harry Potter and the Order of the Phoenix (no matching request found)
+Harry Potter and the Prisoner of Azkaban (no matching request found)
+The Hunger Games: Catching Fire (no matching request found)
+The Hunger Games: Mockingjay - Part 1 (no matching request found)
+The Hunger Games: Mockingjay - Part 2 (no matching request found)
+Whitney Houston: I Wanna Dance with Somebody (requested by: Cayson Marlow) [https://www.themoviedb.org/movie/696157]
+I, Daniel Blake (no matching request found)
+An Inconvenient Sequel: Truth to Power (no matching request found)
+An Inconvenient Truth (no matching request found)
+Inferno (no matching request found)
+Insidious: The Red Door (requested by: Cayson Marlow) [https://www.themoviedb.org/movie/614479]
+Interstellar (no matching request found)
+Jim Jefferies: Alcoholocaust (no matching request found)
+Jim Jefferies: Bare (no matching request found)
+Jim Jefferies: Contraband (no matching request found)
+Jim Jefferies: Freedumb (no matching request found)
+Jim Jefferies: Fully Functional (no matching request found)
+Jim Jefferies: I Swear to God (no matching request found)
+Jim Jefferies: This Is Me Now (no matching request found)
+Jojo Rabbit (no matching request found)
+Kick-Ass (no matching request found)
+Kick-Ass 2 (no matching request found)
+Kiki's Delivery Service (no matching request found)
+Kill Bill: Vol. 1 (no matching request found)
+Kill Bill: Vol. 2 (no matching request found)
+Lano & Woodley in Lano and Woodley (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/movie/882230]
+Lano & Woodley: Fly (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/movie/691906]
+Lano & Woodley - Goodbye (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/movie/40783]
+A League of Their Own (no matching request found)
+Limitless (no matching request found)
+Lock, Stock and Two Smoking Barrels (no matching request found)
+London Has Fallen (no matching request found)
+The Long Kiss Goodnight (no matching request found)
+Lucy (no matching request found)
+Lyle, Lyle, Crocodile (requested by: Paul Godwin) [https://www.themoviedb.org/movie/830784]
+Mad Max 2 (requested by: Max Thompson) [https://www.themoviedb.org/movie/8810]
+Make It Happen (no matching request found)
+The Mask (no matching request found)
+Matilda (no matching request found)
+The Meg (no matching request found)
+Meg 2: The Trench (no matching request found)
+Men in Black (no matching request found)
+Merlin (no matching request found)
+Napoleon (no matching request found)
+Need for Speed (no matching request found)
+Nineteen Eighty-Four (no matching request found)
+The Ninth Gate (no matching request found)
+Office Space (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/1542]
+Outbreak (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/movie/6950]
+Pandora's Promise (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/159152]
+Passengers (no matching request found)
+The Perfect Storm (no matching request found)
+Pineapple Express (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/10189]
+The Pod Generation (no matching request found)
+Princess Mononoke (no matching request found)
+Pulp Fiction (no matching request found)
+The Pursuit of Happyness (no matching request found)
+Pushing Tin (no matching request found)
+Recess: Taking the Fifth Grade (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/movie/405894]
+Revenge of the Nerds (no matching request found)
+The Rock (no matching request found)
+Trailer Park Boys: Say Goodnight to the Bad Guys (no matching request found)
+Scott Pilgrim vs. the World (no matching request found)
+Serenity (no matching request found)
+Shazam! Fury of the Gods (no matching request found)
+The Simpsons Movie (no matching request found)
+Sing Street (no matching request found)
+Snowden (no matching request found)
+The Social Network (no matching request found)
+Sorry We Missed You (no matching request found)
+Star Trek Beyond (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/188927]
+Star Trek Into Darkness (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/54138]
+Star Trek IV: The Voyage Home (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/168]
+Star Trek: Insurrection (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/200]
+Star Trek: First Contact (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/199]
+Star Trek: Generations (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/193]
+Star Trek: Nemesis (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/201]
+The Star Wars Holiday Special (no matching request found)
+Starship Troopers (requested by: Cayson Marlow) [https://www.themoviedb.org/movie/563]
+Strays (no matching request found)
+Super Troopers (no matching request found)
+T2 Trainspotting (no matching request found)
+Teenage Mutant Ninja Turtles: Mutant Mayhem (requested by: Kelly Peck) [https://www.themoviedb.org/movie/614930]
+To Kid or Not to Kid (no matching request found)
+Top Gun (no matching request found)
+Traffic (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/1900]
+Trailer Park Boys (no matching request found)
+Trailer Park Boys: Countdown to Liquor Day (no matching request found)
+Trailer Park Boys: Don't Legalize It (no matching request found)
+Trailer Park Boys: The Movie (no matching request found)
+Trainspotting (no matching request found)
+Transformers: Rise of the Beasts (requested by: Kelly Peck) [https://www.themoviedb.org/movie/667538]
+Tron (no matching request found)
+TRON: Legacy (no matching request found)
+The Turbo Charged Prelude for 2 Fast 2 Furious (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/77959]
+Twister (no matching request found)
+The Usual Suspects (requested by: Matthew Kobayashi) [https://www.themoviedb.org/movie/629]
+Waiting... (no matching request found)
+The Wandering Earth (no matching request found)
+WarGames (no matching request found)
+Waterworld (no matching request found)
+The Wave (no matching request found)
+The X Files (no matching request found)
+The X Files: I Want to Believe (no matching request found)
+Zombieland (no matching request found)
+Zombieland: Double Tap (no matching request found)
+
+--- Candidate TV series for deletion ---
+Awkwafina Is Nora From Queens (requested by: Cayson Marlow) [https://www.themoviedb.org/tv/96231]
+Bakuon!! (no matching request found)
+Baywatch (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/4386]
+Black Mirror (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/42009]
+Boston Legal (no matching request found)
+Cops (requested by: Kelly Peck) [https://www.themoviedb.org/tv/3670]
+Criminal Minds (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/tv/4057]
+Dangerous (no matching request found)
+Entourage (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/1940]
+Firefly (no matching request found)
+Frasier (no matching request found)
+Frasier (2023) (no matching request found)
+Frontline (1994) (no matching request found)
+Futurama (no matching request found)
+Goosebumps (2023) (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/tv/157004]
+The Great (requested by: Michelle Lawson) [https://www.themoviedb.org/tv/93812]
+Hellcats (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/32504]
+Housos (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/39180]
+The Inbetweeners (no matching request found)
+Invasion (2021) (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/127235]
+James May: Our Man In... (no matching request found)
+Loki (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/tv/84958]
+The Lone Gunmen (no matching request found)
+Long Way Down (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/1240]
+Long Way Round (no matching request found)
+Long Way Up (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/106871]
+Mars (2016) (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/68427]
+MegaTruckers (no matching request found)
+Mighty Ships (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/31967]
+Moral Orel (no matching request found)
+My Dress-Up Darling (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/123249]
+The Newsroom (2012) (no matching request found)
+Nip/Tuck (no matching request found)
+Offspring (no matching request found)
+The Orville (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/71738]
+Our Flag Means Death (requested by: Michelle Lawson) [https://www.themoviedb.org/tv/109939]
+Outback Truckers (no matching request found)
+Over There (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/4564]
+Pure Pwnage (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/6182]
+The Ready Room (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/tv/100451]
+Recess (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/tv/1546]
+Rocket Girls (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/tv/112165]
+Round the Twist (no matching request found)
+Sailor Moon (no matching request found)
+Scott Pilgrim Takes Off (requested by: Brittiney Kobayashi) [https://www.themoviedb.org/tv/155292]
+Severance (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/95396]
+The Shield (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/1414]
+Skins (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/900]
+Slide (requested by: Max Thompson) [https://www.themoviedb.org/tv/38894]
+Sliders (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/1649]
+Sports Night (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/2003]
+Star Trek: Deep Space Nine (no matching request found)
+Star Trek: Discovery (no matching request found)
+Star Trek: Enterprise (no matching request found)
+Star Trek: The Next Generation (no matching request found)
+Star Trek: Voyager (no matching request found)
+Studio 60 on the Sunset Strip (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/1691]
+Total Control (no matching request found)
+Trailer Park Boys (requested by: Max Thompson) [https://www.themoviedb.org/tv/3796]
+The Undeclared War (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/156988]
+The Unit (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/2321]
+Water Rats (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/4881]
+The Wire (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/1438]
+Workaholics (requested by: Matthew Kobayashi) [https://www.themoviedb.org/tv/36994]
+The X-Files (no matching request found)
